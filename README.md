@@ -4,7 +4,6 @@ Monitor activations and messages in your browser.
 ## Prerequisites
 
 * [Node.JS](https://nodejs.org/)
-* An Account and Application in the [Dashboard](https://preview.dashboard.thethingsnetwork.org/).
 * A working device that sends data to The Things Network.
 
 ## Getting Started
